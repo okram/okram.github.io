@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+order: 4
 ---
 
 <h2>Education</h2>
@@ -61,8 +62,3 @@ permalink: /resume/
   <li>Undergraduate Researcher at  the Center for Research and Computing in the Arts</li>
   <li>Undergraduate Research  Assistant for the Distributed Cognition and Human-Computer Interaction Laboratory</li>
 </ul>
-<h2>Extracurricular</h2>
-[2012—2013] Santa Fe Adult League Avalanche Captain (A/B-Ranked League)
-[2011—2012] Land of Enchantment Santa Fe PeeWee Hockey Coach (USA Hockey Level 1 Coach)
-[2011—Present] A Member of DZone's <a href="http://www.dzone.com/aboutmvb">Most Valuable Blogger</a> Team
-[2009—2011] <a href="http://www.chavezcenter.com/">Genoveva Chavez Community  Center</a> Ice  Hockey Goalie Coordinator
