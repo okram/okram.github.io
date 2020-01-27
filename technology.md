@@ -10,7 +10,7 @@ order: 3
 <table style="border:none;" cellspacing="0" cellpadding="0">
 <tr>
   <td><img width="75px" src="images/mmadt-logo.png"></td>
-  <td><a href="http://tinkerpop.apache.org/">mm-ADT: A Multi-Model Abstract Data Type</a></td>
+  <td><a href="http://mm-adt.org/">mm-ADT: A Multi-Model Abstract Data Type</a></td>
 </tr>
 
 <tr>
@@ -25,7 +25,7 @@ order: 3
 
 <tr>
   <td><img width="200px" src="images/faunus-logo.png"></td>
-  <td><a href="https://github.com/thinkaurelius/faunus">Faunus: Graph Analytics Engine</a></td>
+  <td><a href="http://github.com/thinkaurelius/faunus">Faunus: Graph Analytics Engine</a></td>
 </tr>
 </table>
 
