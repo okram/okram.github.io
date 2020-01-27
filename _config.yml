@@ -1,0 +1,13 @@
+title: Marko A. Rodriguez
+email: marko@markorodriguez.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The homepage of Marko A. Rodriguez
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: twarko
+github_username:  okram
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
