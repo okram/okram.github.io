@@ -20,12 +20,12 @@ order: 3
 
 <tr>
   <td><img width="200px" src="images/titan-logo.png"></td>
-  <td><a href="http://thinkaurelius.github.com/titan/">Titan: A Distributed Graph Database</a><br/>(project lead is <a href="http://www.matthiasb.com">Matthias Broecheler</a>)</td>
+  <td><a href="http://thinkaurelius.github.com/titan/">Titan: A Distributed Graph Database</a><br/>&nbsp;&nbsp;(project lead was <a href="http://www.matthiasb.com">Matthias Broecheler</a>)</td>
 </tr>
 
 <tr>
   <td><img width="200px" src="images/faunus-logo.png"></td>
-  <td><a href="http://thinkaurelius.github.com/faunus/">Faunus: Graph Analytics Engine</a></td>
+  <td><a href="https://github.com/thinkaurelius/faunus">Faunus: Graph Analytics Engine</a></td>
 </tr>
 </table>
 
