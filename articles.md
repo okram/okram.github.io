@@ -43,6 +43,9 @@ Rodriguez, M.A., "<a href="http://markorodriguez.files.wordpress.com/2011/01/col
 (featured in <a href="http://www.phibetaiota.net/?p=8670">Who’s Who in Collective Intelligence: Marko Rodriguez</a>, Public Intelligence Blog, August 2009)
 
 <h2>Articles</h2>
+Thakkar, H., Angles, R., Rodriguez, M.A., Mallette, S., Lehmann, J., "<a href="https://ieeexplore.ieee.org/document/9031506">Let's Build Bridges, Not Walls - SPARQL Querying of TinkerPop Graph Databases with sparql-gremlin</a>," 2020 IEEE 14th International Conference on Semantic Computing (ICSC), pages 408-415, San Diego, California, February 2020.
+(won best paper award)
+
 Rodriguez, M.A., "<a href="https://zenodo.org/record/2565243">Stream Ring Theory</a>," <a href="http://svredherring.com">S/V Red Herring's Ship's Log</a>: Chronicles in the Sea of Cortez, pages 10-40, Mulege, Baja California Sur, Mexico, doi:10.5281/zenodo.2565243, February 2019. 
 
 Rodriguez, M.A., Mallette, S., "<a href="https://zenodo.org/record/1476234">The Graph Traversal Machine: Close Encounters of the Fourth Kind</a>," <a href="http://svredherring.com">S/V Red Herring's Ship's Log</a>: Chronicles in the Sea of Cortez, pages 1-10, La Paz, Baja California Sur, Mexico, doi:10.5281/zenodo.1476234, October 2018.
