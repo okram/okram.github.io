@@ -21,8 +21,6 @@ order: 4
 	<li>Minor in Interdisciplinary Computing and the Arts - Computer Music</li>
 </ul>
 <h2>Experience</h2>
-[2020-Present] <a href="https://angrytoday.com/@thecoopsters">The Coopsters</a> (The Rooster)
-
 [2018—Present] <a href="http://rredux.com">RReduX</a> (Founder & CEO)
 
 [2018—2019] <a href="http://svredherring.com">S/V Red Herring</a> (Captain — Sabbatical)
