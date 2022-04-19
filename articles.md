@@ -9,7 +9,7 @@ order: 1
 Since leaving academia, I publish most of my writings through blogs.
 <ul>
     <li><a href="https://web.archive.org/web/20190303212114/https://www.datastax.com/author/markodatastax-com">DataStax Blog</a> (via Wayback Machine)</li>
-	<!--<li><a href="http://markorodriguez.com">Marko Rodriguez Blog</a></li>-->
+	<li><a href="https://markorodriguez.wordpress.com/">Marko Rodriguez Blog</a></li>
 	<li><a href="https://thinkaurelius.wordpress.com/blog">Aurelius Blog</a></li>
 </ul>
 
