@@ -21,14 +21,14 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Rodriguez, M.A., Kuppitz, D., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nosql-now-2015.pdf">The Gremlin Graph Traversal Language</a>," NoSQLNow, San Jose, California, August 2015.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-path-forward">The Path Forward: Titan 1.0 and TinkerPop3</a>," Comcast Workshop, New Jersey, November 2014.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/the-path-forward-2014.pdf">The Path Forward: Titan 1.0 and TinkerPop3</a>," Comcast Workshop, New Jersey, November 2014.
 
 Rodriguez, M.A., "Miami Graphs," <a href="http://thelabmiami.com/">The Lab Miami</a> All-Day Workshop, Miami Florida, June 2013.
 
 Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/yow-australia-2012.pdf">Solving Problems with Graphs</a>," <a href="http://www.yowconference.com.au/">YOW! Developer Conference</a>, Melbourne/Brisbane/Sydney, Australia, December 2012.
 (presentation video <a href="https://yow.eventer.com/yow-2012-1012/solving-problems-with-graphs-by-marko-a-rodriguez-1228">available</a>) (featured presentation on Slideshare)
 
-Rodriguez, M.A., Broecheler, M., "<a href="https://speakerdeck.com/u/okram/p/titan-the-rise-of-big-graph-data">Titan: The Rise of Big Graph Data</a>," Palo Alto, California, June 2012.
+Rodriguez, M.A., Broecheler, M., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/titan-biggraphdata-2012.pdf">Titan: The Rise of Big Graph Data</a>," Palo Alto, California, June 2012.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-pathology-of-graph-databases">The Pathology of Graph Database</a>," <a href="http://windycitydb.org/">WindyCityDB</a>, Chicago, Illinois, June 2011.
 (presentation video <a href="http://windycitydb.org/videos2011/#1">available</a>)
@@ -39,11 +39,11 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-gremlin-in-the-graph">The Gremlin in the Graph</a>," Invited Lecture, <a href="http://www.dama.upc.edu/research-2/UIM-GDB">First University-Industry Meeting on Graph Databases</a> (UIM-GDB), Universitat Politècnica de Catalunya, February 2011.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/memoirs-of-a-graph-addict-despair-to-redemption">Memoirs of a Graph Addict: Despair to Redemption</a>,” Invited Lectures, Winterland Whirlwind Tour, Chicago-USA to Malmo-Sweden, January 2011.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/whirlwind-tour-2011.pdf">Memoirs of a Graph Addict: Despair to Redemption</a>,” Invited Lectures, Winterland Whirlwind Tour, Chicago-USA to Malmo-Sweden, January 2011.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/graph-databases-trends-in-the-web-of-data">Graph Database: Trends in the Web of Data</a>,” Invited Lecture, <a href="http://www.inf.unibz.it/krdb/school/2010/">3rd KRDB School on Trends in the Web of Data</a>, Brixen-Bressanone (near Bozen-Bolzano), Italy, September 2010.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation">Problem-Solving using Graph Traversals: Searching, Scoring, Ranking, and Recommendation</a>,” Technical Talk Seminar, AT&T Interactive, Glendale, California, July 2010.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/atti-ps-graphs.pdf">Problem-Solving using Graph Traversals: Searching, Scoring, Ranking, and Recommendation</a>,” Technical Talk Seminar, AT&T Interactive, Glendale, California, July 2010.
 (featured in Rodriguez, M.A., "<a href="http://engineering.attinteractive.com/2010/07/the-wonderful-world-of-graphs/">The Wonderful World of Graphs</a>,” AT&Ti Engineering Blog, July 2010) (featured in Hoff, T., "<a href="http://highscalability.com/blog/2010/7/30/hot-scalability-links-for-july-30-2010.html">Hot Scalability Links for July 30, 2010</a>,” High Scalability, July 2010) (40,000+ views on <a href="http://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation">SlideShare</a>)
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/a-perspective-on-graph-theory-and-network-science">A Perspective on Graph Theory and Network Science</a>,” Invited Speaker, Santa Fe Public School District, Santa Fe, New Mexico, July 2010.
@@ -69,15 +69,15 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Rodriguez, M.A., "The Future of Graph Databases: From Linking Data to Linking Process,” International and Applied Technology Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, July 2009.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/distributed-graph-databases-and-the-emerging-web-of-data">Distributed Graph Databases and the Emerging Web of Data</a>,” Invited Lecture, University of New Mexico Computer Science Department <a href="http://www.cs.unm.edu/news_events/colloquia/">Colloquium Spring Series</a>, Albuquerque, New Mexico, April 2009.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/unm-colloquium2009.pdf">Distributed Graph Databases and the Emerging Web of Data</a>,” Invited Lecture, University of New Mexico Computer Science Department <a href="http://www.cs.unm.edu/news_events/colloquia/">Colloquium Spring Series</a>, Albuquerque, New Mexico, April 2009.
 (featured in  Mercer-Smith, J.A., "<a href="https://int.lanl.gov/orgs/padste/hilites/ste061009.pdf">Theoretical: Evolution of the World Wide Web to Support the Web of Data</a>,” Principal Associate Director for Science, Technology, and Engineering Highlights, Los Alamos National Laboratory, June 2009)
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/graph-databases-and-the-future-of-largescale-knowledge-management">Graph Databases and the Future of Large-Scale Knowledge Management</a>,” Invited Lecture for Risk Analysis Symposium, <a href="http://risk.lanl.gov/">Risk Analysis of Complex Systems for National Security Applications</a>, Decision Applications Division and the Center for Nonlinear Studies, Santa Fe, New Mexico, April 2009.
 (featured in Snodgrass, R., "<a href="http://www.lcni5.com/cgi-bin/c2.cgi?075+article+News+20090414083954075075007">Rodriguez Among LANL’s Next Generation of Scientists</a>,” Los Alamos Monitor, April 14, 2009) (featured in Hoff, T., "<a href="http://highscalability.com/paper-graph-databases-and-future-large-scale-knowledge-management">Graph Databases and the Future of Large-Scale Knowledge Management</a>,” High Scalability, June 2009) (featured in Bain, T., "<a href="http://blog.tonybain.com/tony_bain/2009/06/graph-databases-and-the-future-of-largescale-knowledge-management.html">Graph Databases and the Future of Large-Scale Knowledge Management</a>,” Innovations in Data Management, June, 2009)
 
-Rodriguez, M.A., Geldart, J., "<a href="http://www.slideshare.net/slidarko/an-evidential-logic-for-multirelational-networks">An Evidential Path Logic for Multi-Relational Networks</a>,” Association for the Advancement of Artificial Intelligence Spring Symposium: Technosocial Predictive Analytics, Stanford, California, March 2009.
+Rodriguez, M.A., Geldart, J., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/aaai-evidence2009.pdf">An Evidential Path Logic for Multi-Relational Networks</a>,” Association for the Advancement of Artificial Intelligence Spring Symposium: Technosocial Predictive Analytics, Stanford, California, March 2009.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/collective-decision-making-systems-from-the-ideal-state-to-human-eudaimonia-3880075">Collective Decision Making Systems: From the Ideal State to Human Eudaimonia</a>,” Center for Nonlinear Studies External Advisory Committee Presentation, Los Alamos, New Mexico, February 2009.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cnls-cdms-review.pdf">Collective Decision Making Systems: From the Ideal State to Human Eudaimonia</a>,” Center for Nonlinear Studies External Advisory Committee Presentation, Los Alamos, New Mexico, February 2009.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/evolving-the-web-into-a-giant-global-database-3880018">Evolving the Web into a Giant Global Database</a>,” Invited Lecture for <a href="http://www.nmipa.org/">New Mexico Internet Professionals Association</a>, Santa Fe, New Mexico, February 2009.
 
@@ -85,14 +85,14 @@ Rodriguez, M.A., "Spinning Out Technology from the Los Alamos National Laborator
 
 Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/cnls-symbol-signal.pdf">From the Signal to the Symbol: Structure and Process in Artificial Intelligence</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, November 2008.
 
-Rodriguez, M.A., Bollen, J., "<a href="http://www.slideshare.net/slidarko/an-algorithm-to-determine-peerreviewers-3876589">An Algorithm to Determine Peer-Reviewers</a>,” ACM Conference on Information and Knowledge Management, Napa, California, October 2008.
+Rodriguez, M.A., Bollen, J., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cikm-peerreview.pdf">An Algorithm to Determine Peer-Reviewers</a>,” ACM Conference on Information and Knowledge Management, Napa, California, October 2008.
 
 Rodriguez, M.A., Bollen, J., Shinavier, J., Eifrem, E., "Industrial Strength Networks,” Invited Lecture Series for Public Blender, Santa Fe Complex, Santa Fe, New Mexico, July 2008.
 (lecture summaries <a href="http://sfcomplex.org/wordpress/2008/07/industrialstrengthnetworks">available</a>)
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/a-path-algebra-for-mapping-multirelational-networks-to-singlerelational-networks-3876646">A Path Algebra for Mapping Multi-Relational Networks to Single-Relational Networks</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, June 2008.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/path-algebra-cnls.pdf">A Path Algebra for Mapping Multi-Relational Networks to Single-Relational Networks</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, June 2008.
 
-Pepe, A., Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/cens-talk">Mining and Supporting Community Structures in Sensor Network Research</a>,” Invited Lecture at University of California at Los Angeles, Center for Embedded Network Sensing Public Lecture, Los Angeles, California, May 2008.
+Pepe, A., Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/censtalk.pdf">Mining and Supporting Community Structures in Sensor Network Research</a>,” Invited Lecture at University of California at Los Angeles, Center for Embedded Network Sensing Public Lecture, Los Angeles, California, May 2008.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-network-a-data-structure-that-links-domains">The Network Data Structure in Computing</a>,” High-Performance Computing Challenge, Los Alamos National Laboratory, Los Alamos, New Mexico, April 2008.
 
@@ -108,12 +108,12 @@ Rodriguez, M.A., Watkins, J.H., Bollen, J., Gershenson, C., "Using RDF to Model 
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-network-a-data-structure-that-links-domains">The Network: A Data Structure that Links Domains</a>,” University of New Mexico Invited Lecture,  Mechanical/Electrical/Computer Engineering Department, Albuquerque, New Mexico, September 2007.
 
-Rodriguez, M.A., Chute, R., "<a href="http://www.slideshare.net/slidarko/nenofhat-semantic-network-programming-language-and-virtual-machine-specification-3879780">Neno/Fhat: Semantic Network Programming Language and Virtual Machine Specification</a>,” Research Library Public Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, September 2007.
+Rodriguez, M.A., Chute, R., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nenofhat.pdf">Neno/Fhat: Semantic Network Programming Language and Virtual Machine Specification</a>,” Research Library Public Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, September 2007.
 
 Rodriguez, M.A., Watkins, J.H., "<a href="http://www.slideshare.net/slidarko/distributed-collective-decision-making-from-ballot-to-market-3876660">Distributed Collective Decision Making: From Ballot to Market</a>,” <a href="http://www.innovationlabs.com/summit/discovery1/">Discovery Workshop: Applying Complexity Science to Organizational Design and Multistakeholder Systems</a>, National Alliance for Physician Competence, Chicago, Illinois, August 2007.
 (lecture summary <a href="http://www.innovationlabs.com/summit/discovery1/r8b_prediction.html">available</a>)
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/a-practical-ontology-for-the-largescale-modeling-of-scholarly-artifacts-and-their-usage-3879791">Practical Ontology for the Large-Scale Modeling of Scholarly Artifacts and their Usage</a>,” ACM/IEEE Joint Conference on Digital Libraries (JCDL), Vancouver, Canada, June 2007.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/jcdl-practical-ontology.pdf">Practical Ontology for the Large-Scale Modeling of Scholarly Artifacts and their Usage</a>,” ACM/IEEE Joint Conference on Digital Libraries (JCDL), Vancouver, Canada, June 2007.
 
 Rodriguez, M.A., "An RDF/RDFS/OWL Tutorial,” Research Library Public Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, June 2007.
 
