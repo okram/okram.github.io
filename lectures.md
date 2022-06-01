@@ -15,17 +15,17 @@ Rodriguez, M.A., "<a href="https://www.slideshare.net/slidarko/gremlin-1013-on-y
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/gremlins-graph-traversal-machinery">Gremlin's Graph Traversal Machinery</a>," Cassandra Summit, San Jose, California, September 2016.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/quantum-processes-in-graph-computing">Quantum Processes in Graph Computing</a>," GraphDay, Austin, Texas, January 2016.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/quantum-gremlin-graphday.pdf">Quantum Processes in Graph Computing</a>," GraphDay, Austin, Texas, January 2016.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/acm-dbpl-keynote-the-graph-traversal-machine-and-language">The Gremlin Graph Traversal Machine and Language</a>," Keynote at ACM Database Programming Languages Conference, Pittsburgh, Pennsylvania, October 2015.
 
-Rodriguez, M.A., Kuppitz, D., "<a href="http://www.slideshare.net/slidarko/the-gremlin-traversal-language">The Gremlin Graph Traversal Language</a>," NoSQLNow, San Jose, California, August 2015.
+Rodriguez, M.A., Kuppitz, D., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nosql-now-2015.pdf">The Gremlin Graph Traversal Language</a>," NoSQLNow, San Jose, California, August 2015.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-path-forward">The Path Forward: Titan 1.0 and TinkerPop3</a>," Comcast Workshop, New Jersey, November 2014.
 
 Rodriguez, M.A., "Miami Graphs," <a href="http://thelabmiami.com/">The Lab Miami</a> All-Day Workshop, Miami Florida, June 2013.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/yow-australia2012">Solving Problems with Graphs</a>," <a href="http://www.yowconference.com.au/">YOW! Developer Conference</a>, Melbourne/Brisbane/Sydney, Australia, December 2012.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/yow-australia-2012.pdf">Solving Problems with Graphs</a>," <a href="http://www.yowconference.com.au/">YOW! Developer Conference</a>, Melbourne/Brisbane/Sydney, Australia, December 2012.
 (presentation video <a href="https://yow.eventer.com/yow-2012-1012/solving-problems-with-graphs-by-marko-a-rodriguez-1228">available</a>) (featured presentation on Slideshare)
 
 Rodriguez, M.A., Broecheler, M., "<a href="https://speakerdeck.com/u/okram/p/titan-the-rise-of-big-graph-data">Titan: The Rise of Big Graph Data</a>," Palo Alto, California, June 2012.
