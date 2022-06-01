@@ -5,19 +5,19 @@ permalink: /lectures/
 order: 2
 ---
 
-Rodriguez, M.A., "<a href="https://www.slideshare.net/slidarko/mmadt-a-virtual-machinean-economic-machine">mm-ADT: A Virtual Machine/An Economic Machine</a>" (Database Keynote), GraphDay 2020, Austin, Texas, January 2020.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/datadays-2020-mmadt-rodriguez.pdf">mm-ADT: A Virtual Machine/An Economic Machine</a>" (Database Keynote), GraphDay 2020, Austin, Texas, January 2020.
 
-Rodriguez, M.A., "<a href="https://www.slideshare.net/slidarko/mmadt-a-multimodel-abstract-data-type">mm-ADT: A Multi-Model Abstract Datatype</a>," ApacheCon'20, Las Vegas, Nevada, September 2019.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/apachecon-2019.pdf">mm-ADT: A Multi-Model Abstract Datatype</a>," ApacheCon'20, Las Vegas, Nevada, September 2019.
 
 Rodriguez, M.A., "<a href="https://www.slideshare.net/slidarko/open-problems-in-the-universal-graph-theory">Open Problems in the Universal Graph Theory</a>" (Keynote), GraphDay 2017, San Francisco, California, June 2017.
 
 Rodriguez, M.A., "<a href="https://www.slideshare.net/slidarko/gremlin-1013-on-your-fm-dial">Gremlin 101.3 On Your FM Dial</a>," DataStax Support and Engineering Summits, Carmel California and Las Vegas Nevada, May 2017.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/gremlins-graph-traversal-machinery">Gremlin's Graph Traversal Machinery</a>," Cassandra Summit, San Jose, California, September 2016.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cassandra-summit-2016.pdf">Gremlin's Graph Traversal Machinery</a>," Cassandra Summit, San Jose, California, September 2016.
 
 Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/quantum-gremlin-graphday.pdf">Quantum Processes in Graph Computing</a>," GraphDay, Austin, Texas, January 2016.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/acm-dbpl-keynote-the-graph-traversal-machine-and-language">The Gremlin Graph Traversal Machine and Language</a>," Keynote at ACM Database Programming Languages Conference, Pittsburgh, Pennsylvania, October 2015.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/acm-dblp-gremlin-2015.pdf">The Gremlin Graph Traversal Machine and Language</a>," Keynote at ACM Database Programming Languages Conference, Pittsburgh, Pennsylvania, October 2015.
 
 Rodriguez, M.A., Kuppitz, D., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nosql-now-2015.pdf">The Gremlin Graph Traversal Language</a>," NoSQLNow, San Jose, California, August 2015.
 
@@ -35,7 +35,7 @@ Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-pathology-of-g
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin">Traversing Graph Databases with Gremlin</a>," <a href="http://www.meetup.com/nosql-nyc/events/17580418/">NoSQL New York</a>, New York City, May 2011.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-pathological-gremlin">The Path-o-Logical Gremlin</a>," 2nd International Workshop on Graph Data Management: Techniques and Applications (<a href="http://www.cse.unsw.edu.au/~gdm2011/">GDM'11</a>), Hannover, Germany, April 2011.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/gremlin-gdm2011.pdf">The Path-o-Logical Gremlin</a>," 2nd International Workshop on Graph Data Management: Techniques and Applications (<a href="http://www.cse.unsw.edu.au/~gdm2011/">GDM'11</a>), Hannover, Germany, April 2011.
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-gremlin-in-the-graph">The Gremlin in the Graph</a>," Invited Lecture, <a href="http://www.dama.upc.edu/research-2/UIM-GDB">First University-Industry Meeting on Graph Databases</a> (UIM-GDB), Universitat Politècnica de Catalunya, February 2011.
 
@@ -48,7 +48,7 @@ Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/problemsolving-usi
 
 Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/a-perspective-on-graph-theory-and-network-science">A Perspective on Graph Theory and Network Science</a>,” Invited Speaker, Santa Fe Public School District, Santa Fe, New Mexico, July 2010.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/graph-windycitydb2010">The Graph Traversal Programming Pattern</a>,” Invited Speaker, WindyCity DB, Chicago, Illinois, June 2010.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/graph-windycitydb-2010.pdf">The Graph Traversal Programming Pattern</a>,” Invited Speaker, WindyCity DB, Chicago, Illinois, June 2010.
 (presentation video <a href="http://vimeo.com/channels/wcdb10#13213184">available</a>) ("Hot in Twitter” via SlideShare on June 27th) (featured in Ho, R., "<a href="http://horicky.blogspot.com/2010/07/google-pregel-graph-processing.html">Google Pregel Graph Processing</a>,” Pragmatic Programming Techniques, July 2010) (featured in Stainer, D., "<a href="http://www.nosqldatabases.com/main/2010/7/16/the-graph-traversal-programming-pattern-part-1-graph-structu.html">The Graph Traversal Programming Pattern (Part 1) - Graph Structures</a>,” NoSQL Databases, July 2010) (10,000+ views on <a href="http://www.slideshare.net/slidarko/graph-windycitydb2010">SlideShare</a>)
 
 Rodriguez, M.A., "The Evolution of the Graph Data Structure from Research to Production,” Panel Moderator and Breakout Session Presenter, <a href="http://nosqlboston.eventbrite.com/">NoSQL Live ...Boston</a>, Boston, Massachusetts, March 2010.
@@ -65,7 +65,7 @@ Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/multirelational-gr
 Rodriguez, M.A., "Linking Open Processors,” <a href="http://www.ignite-nm.com/">Ignite New Mexico</a>, Santa Fe, New Mexico, September 2009.
 (presentation video <a href="http://www.ignite-nm.com/2009/01/01/linking-open-processors-marko-rodriguez/">available</a>)
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/generalpurpose-internetscale-distributed-computing-with-linked-process-3880087">General-Purpose, Internet-Scale Distributed Computing with Linked Process</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, September 2009.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cnls-linkedprocess2009.pdf">General-Purpose, Internet-Scale Distributed Computing with Linked Process</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, September 2009.
 
 Rodriguez, M.A., "The Future of Graph Databases: From Linking Data to Linking Process,” International and Applied Technology Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, July 2009.
 
@@ -83,7 +83,7 @@ Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/evolving-the-web-i
 
 Rodriguez, M.A., "Spinning Out Technology from the Los Alamos National Laboratory,” University of New Mexico Computer Science Faculty Mixer, sponsored by the New Mexico Angels, Albuquerque, New Mexico, December 2008.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/from-the-signal-to-the-symbol-structure-and-process-in-artificial-intelligence">From the Signal to the Symbol: Structure and Process in Artificial Intelligence</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, November 2008.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/cnls-symbol-signal.pdf">From the Signal to the Symbol: Structure and Process in Artificial Intelligence</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, November 2008.
 
 Rodriguez, M.A., Bollen, J., "<a href="http://www.slideshare.net/slidarko/an-algorithm-to-determine-peerreviewers-3876589">An Algorithm to Determine Peer-Reviewers</a>,” ACM Conference on Information and Knowledge Management, Napa, California, October 2008.
 
