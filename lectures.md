@@ -25,7 +25,7 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Rodriguez, M.A., "Miami Graphs," <a href="http://thelabmiami.com/">The Lab Miami</a> All-Day Workshop, Miami Florida, June 2013.
 
-Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/yow-australia-2012.pdf">Solving Problems with Graphs</a>," <a href="http://www.yowconference.com.au/">YOW! Developer Conference</a>, Melbourne/Brisbane/Sydney, Australia, December 2012.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/yow-australia-2012.pdf">Solving Problems with Graphs</a>," <a href="http://www.yowconference.com.au/">YOW! Developer Conference</a>, Melbourne/Brisbane/Sydney, Australia, December 2012.
 (presentation video <a href="https://yow.eventer.com/yow-2012-1012/solving-problems-with-graphs-by-marko-a-rodriguez-1228">available</a>) (featured presentation on Slideshare)
 
 Rodriguez, M.A., Broecheler, M., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/titan-biggraphdata-2012.pdf">Titan: The Rise of Big Graph Data</a>," Palo Alto, California, June 2012.
@@ -59,7 +59,7 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/datamanagement-2010.pdf">An Overview of Data Management Paradigms: Relational, Document, and Graph</a>,” Data Management Workshop, University of New Mexico, February 2010.
 
-Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/mit-ll-2009.pdf">Multi-Relational Graph Structures: From Algebra to Application</a>,” Invited Speaker, MIT Lincoln Laboratory, Lexington, Massachusetts, October 2009.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/mit-ll-2009.pdf">Multi-Relational Graph Structures: From Algebra to Application</a>,” Invited Speaker, MIT Lincoln Laboratory, Lexington, Massachusetts, October 2009.
 (featured in Ho, R., "<a href="http://horicky.blogspot.com/2010/02/nosql-graphdb.html">NoSQL GraphDB</a>,” Pragmatic Programming Techniques, February 2010)
 
 Rodriguez, M.A., "Linking Open Processors,” <a href="http://www.ignite-nm.com/">Ignite New Mexico</a>, Santa Fe, New Mexico, September 2009.
@@ -79,11 +79,11 @@ Rodriguez, M.A., Geldart, J., "<a href="https://github.com/okram/okram.github.io
 
 Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cnls-cdms-review.pdf">Collective Decision Making Systems: From the Ideal State to Human Eudaimonia</a>,” Center for Nonlinear Studies External Advisory Committee Presentation, Los Alamos, New Mexico, February 2009.
 
-Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/nmipa-semantic.pdf">Evolving the Web into a Giant Global Database</a>,” Invited Lecture for <a href="http://www.nmipa.org/">New Mexico Internet Professionals Association</a>, Santa Fe, New Mexico, February 2009.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nmipa-semantic.pdf">Evolving the Web into a Giant Global Database</a>,” Invited Lecture for <a href="http://www.nmipa.org/">New Mexico Internet Professionals Association</a>, Santa Fe, New Mexico, February 2009.
 
 Rodriguez, M.A., "Spinning Out Technology from the Los Alamos National Laboratory,” University of New Mexico Computer Science Faculty Mixer, sponsored by the New Mexico Angels, Albuquerque, New Mexico, December 2008.
 
-Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/blob/master/lectures/cnls-symbol-signal.pdf">From the Signal to the Symbol: Structure and Process in Artificial Intelligence</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, November 2008.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cnls-symbol-signal.pdf">From the Signal to the Symbol: Structure and Process in Artificial Intelligence</a>,” Center for Nonlinear Studies Post Doctorate Seminar, Los Alamos National Laboratory, Los Alamos, New Mexico, November 2008.
 
 Rodriguez, M.A., Bollen, J., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/cikm-peerreview.pdf">An Algorithm to Determine Peer-Reviewers</a>,” ACM Conference on Information and Knowledge Management, Napa, California, October 2008.
 
@@ -94,7 +94,7 @@ Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/l
 
 Pepe, A., Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/censtalk.pdf">Mining and Supporting Community Structures in Sensor Network Research</a>,” Invited Lecture at University of California at Los Angeles, Center for Embedded Network Sensing Public Lecture, Los Angeles, California, May 2008.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-network-a-data-structure-that-links-domains">The Network Data Structure in Computing</a>,” High-Performance Computing Challenge, Los Alamos National Laboratory, Los Alamos, New Mexico, April 2008.
+Rodriguez, M.A., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/network-datastructure.pdf">The Network Data Structure in Computing</a>,” High-Performance Computing Challenge, Los Alamos National Laboratory, Los Alamos, New Mexico, April 2008.
 
 Rodriguez, M.A., "Using Semantic Networks to Model the Structure and Process of Systems,” Information and Knowledge Science Capability Review, Los Alamos National Laboratory, Los Alamos, New Mexico, April 2008.
 
@@ -106,7 +106,7 @@ Rodriguez, M.A., "Models of Computing in Semantic Networks,” University of Cal
 
 Rodriguez, M.A., Watkins, J.H., Bollen, J., Gershenson, C., "Using RDF to Model the Structure and Process of Systems,” International Conference on Complex Systems, Boston, Massachusetts, October 2007.
 
-Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-network-a-data-structure-that-links-domains">The Network: A Data Structure that Links Domains</a>,” University of New Mexico Invited Lecture,  Mechanical/Electrical/Computer Engineering Department, Albuquerque, New Mexico, September 2007.
+Rodriguez, M.A., "<a href="http://www.slideshare.net/slidarko/the-network-a-data-structure-that-links-domains">The Network: A Data Structure that Links Domains</a>,” University of New Mexico Invited Lecture, Mechanical/Electrical/Computer Engineering Department, Albuquerque, New Mexico, September 2007.
 
 Rodriguez, M.A., Chute, R., "<a href="https://github.com/okram/okram.github.io/raw/master/lectures/nenofhat.pdf">Neno/Fhat: Semantic Network Programming Language and Virtual Machine Specification</a>,” Research Library Public Lecture, Los Alamos National Laboratory, Los Alamos, New Mexico, September 2007.
 
