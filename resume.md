@@ -23,7 +23,7 @@ order: 4
 <h2>Experience</h2>
 [2022-Present] PhaseShift Studio, LLC. (Managing Partner)
 
-[2018—Present] RReduX (Founder & CEO)
+[2018—2022] RReduX (Founder & CEO)
 
 [2018—2019] <a href="http://svredherring.com">S/V Red Herring</a> (Captain — Sabbatical)
 
