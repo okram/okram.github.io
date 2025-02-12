@@ -9,6 +9,11 @@ order: 3
 
 <table style="border:none;" cellspacing="0" cellpadding="0">
 <tr>
+  <td><img width="200px" src="images/fhatos-logo.png"></td>
+  <td><a href="">FhatOS: A Distributed Operating System</a></td>
+</tr>
+  
+  <tr>
   <td><img width="200px" src="images/mmadt-logo.png"></td>
   <td><a href="http://mm-adt.org/">mm-ADT: A Multi-Model Abstract Data Type</a></td>
 </tr>
