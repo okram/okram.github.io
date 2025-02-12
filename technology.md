@@ -9,7 +9,7 @@ order: 3
 
 <table style="border:none;" cellspacing="0" cellpadding="0">
 <tr>
-  <td><img width="200px" src="images/fhatos-logo.png"></td>
+  <td><img width="200px" src="images/fhatos-logo-text.png"></td>
   <td><a href="">FhatOS: A Distributed Operating System</a></td>
 </tr>
   
