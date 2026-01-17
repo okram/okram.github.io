@@ -21,7 +21,7 @@ order: 4
 	<li>Minor in Interdisciplinary Computing and the Arts - Computer Music</li>
 </ul>
 <h2>Experience</h2>
-[2022-Present] PhaseShift Studio, LLC. (Managing Partner)
+[2022-Present] <a href="http://phaseshift.studio">PhaseShift Studio, LLC.</a> (Managing Partner)
 
 [2018—2022] RReduX (Founder & CEO)
 
