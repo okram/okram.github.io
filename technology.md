@@ -15,7 +15,7 @@ order: 3
 
 <tr>
   <td><img width="200px" src="images/fhatos-logo-text.png"></td>
-  <td><a href="">FhatOS: A Distributed Operating System</a></td>
+  <td><a href="https://github.com/phaseshift-studio/fhatos">FhatOS: A Distributed Operating System</a></td>
 </tr>
   
   <tr>
